@@ -1,0 +1,3 @@
+# Create a contact Form with VITE!
+
+In this project I try to run it with vite. First step with querySelector() I describe the < div > with id ( app ) and put functions in it. Create components folder with these folders in it : layout, button, form and textfields and create lib folder with Box folder. And fill them with respective functions. layout function include empty page and put Form in it. when I want to show it, describe Form as a layout children and put it on app function and in main page append app in the first < div >.
